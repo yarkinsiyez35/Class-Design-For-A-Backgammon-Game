@@ -1,6 +1,7 @@
 #ifndef CHARSTACK_H
 #define CHARSTACK_H
 
+/* This code is provided by the instructor*/
 
 /**
  * @brief Character Stack Implementation
