@@ -3,6 +3,8 @@
  *  Stackgammon Game
  */
 
+/* This code is provided by the instructor*/
+
 #include "Board.h"
 #include <iostream>
 #include <string>
