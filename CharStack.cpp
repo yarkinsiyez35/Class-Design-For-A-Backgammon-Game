@@ -9,7 +9,7 @@
  * 
  */
 
-// 28.03.2023 Modified by Selim Kirbiyik from IntStack class
+/* This code is provided by the instructor*/
 
 #include <iostream>
 #include "CharStack.h"
